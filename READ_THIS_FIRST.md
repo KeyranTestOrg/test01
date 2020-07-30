@@ -33,6 +33,7 @@
   </tbody>
 </table>
 
+### NEW PIPE
 
 ### Binary project
 This binary project does not contain source code and therefore does not allow you to make changes to your application before it is migrated. The application binary and application dependencies uploaded to Transformation Advisor are included here and will be used when building the Liberty based image for your application. If you provided Maven coordinates for the application binary and dependencies, they will be downloaded from the given Maven repository before building the image.
